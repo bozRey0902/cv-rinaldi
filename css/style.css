@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(38, 41, 219);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 7%;
+}
+
+h1 {
+  color: cornsilk;
+}
+
+h3 {
+  color: cornsilk;
+}
